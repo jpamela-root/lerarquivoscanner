@@ -1,0 +1,2 @@
+# lerarquivoscanner
+ler-arquivo-scanner 
