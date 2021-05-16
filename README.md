@@ -1,2 +1,2 @@
 # lerarquivoscanner
-ler-arquivo-scanner 
+ler-arquivo-scanner-em-java
